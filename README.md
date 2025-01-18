@@ -4,7 +4,7 @@
 
 ## 📌 **Quem sou eu?**
 🔹 **Idade:** 16 anos  
-🔹 **Apaixonado por Programação**  
+🔹 **Aprendendo a Programar**  
 🔹 **Foco de Estudo:** `C#` | `Lógica de Programação`  
 🔹 **Objetivo Profissional:** Criar soluções inovadoras e me tornar um desenvolvedor qualificado. 🌱
 
